@@ -10,4 +10,4 @@ for c = 1:M
         U(c) = 1/8;
     end
 end
-
+% V.*[exp(2*pi*1i*(W./4+U) )]
